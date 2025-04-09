@@ -35,8 +35,8 @@ Bibliotecas listadas em requirements.txt
 Instalação
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/diabetes-classification.git
-cd diabetes-classification
+git clone https://github.com/CaioSergio93/Machine-Learnig2.git
+
 Crie e ative um ambiente virtual (recomendado):
 
 python -m venv venv
