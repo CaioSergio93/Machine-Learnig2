@@ -1,4 +1,5 @@
 Projeto de Machine Learning - Classificação de Diabetes
+
 📌 Visão Geral
 Este projeto implementa um modelo de Machine Learning para classificação binária usando o dataset Pima Indians Diabetes Database do Kaggle. O objetivo é prever se um paciente tem diabetes com base em características como nível de glicose, pressão sanguínea, índice de massa corporal (BMI), entre outros.
 
